@@ -6,13 +6,17 @@ Key components of the project may include:
 1. Data Collection: Gathering data related to 'Loan_id', 'Gender', 'Married', 'Dependents', 'Education',
    'Self_Employed', 'ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History', 'Property_Area', 
    'Loan_Status'.
+   
 2. Data Preprocessing: Cleaning and preprocessing the collected data to handle missing values, outliers, and inconsistencies.
    This may involve data cleaning, feature engineering, normalization, and scaling to prepare the data for machine learning algorithms.
+   
 3. Feature Selection: Selecting the most relevant features or variables that have a significant impact on property prices.
    Feature selection techniques such as correlation analysis, feature importance ranking, and dimensionality reduction may be used to 
    identify the most predictive features.
+   
 4. Model Evaluation: Evaluating the performance of trained models using appropriate evaluation metrics such as accuracy, precision, 
    recall, f1 score.
+   
 5. Prediction and Deployment: Making predictions on new or unseen real estate data using the trained machine learning models.
    Deploying the predictive model in a real-world setting to make real-time predictions or integrate it into existing applications.
 
