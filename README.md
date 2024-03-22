@@ -2,7 +2,7 @@
 
 "Loan Approval Prediction using Machine Learning" is a pioneering project aimed at revolutionizing the loan approval process through innovative data analytics and predictive modeling techniques. Leveraging machine learning algorithms, this project predicts the likelihood of loan approval based on various applicant attributes and financial indicators.
 
-Key components of the project may include:
+# Key components of the project may include:
 1. Data Collection: Gathering data related to 'Loan_id', 'Gender', 'Married', 'Dependents', 'Education',
    'Self_Employed', 'ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History', 'Property_Area', 
    'Loan_Status'.
@@ -23,7 +23,7 @@ Key components of the project may include:
 
 
 
-Benefits:
+# Benefits:
 1. Improved Decision-Making: Provide lenders with insights into the creditworthiness of loan applicants, helping them make informed 
    decisions and mitigate risks.
 2. Efficiency and Automation: Streamline the loan approval process, reducing manual effort and processing time, leading to faster 
