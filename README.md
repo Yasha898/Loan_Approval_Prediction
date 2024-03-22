@@ -22,6 +22,7 @@ Key components of the project may include:
 
 
 
+
 Benefits:
 1. Improved Decision-Making: Provide lenders with insights into the creditworthiness of loan applicants, helping them make informed 
    decisions and mitigate risks.
